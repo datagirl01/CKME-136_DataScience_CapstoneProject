@@ -1,4 +1,5 @@
 # CKME-136_DataScience_CapstoneProject
+### Used car Price Prediction
 With the advancements in Artificial Intelligence, the automotive industry is undergoing revolutionization, bringing up self-driving-cars and collision warning systems. Besides, the used car sales markets are also on the rise due to the increased cost of modern cars, the incurring auto-insurance prices and the lack of funds. The prices of new cars are fixed by the manufacturer although taxes add upon them, whereas the value of pre-owned cars depends on their history, make and the hidden-heavy dealership charges. Having a framework to analyze and predict the cost of unused cars based on the historical data can help 
 •	the dealers to offer a better service by having a good understanding of the car features and their actual worth, 
 •	the existing platforms to provide better predictions by optimizing their systems and finally, 
